@@ -71,5 +71,13 @@ Hasta este punto se han desarrollado los siguientes análisis:
  Para cualquier consulta o sugerencia, puedes contactarme en: 
  mitchel.poblete@outlook.com o en mi perfil de GitHub: [MiitchPs](https://github.com/MiitchPs)
 
+## capturas de imagenes
+
+![tienda_1_total](https://github.com/user-attachments/assets/5d933443-2629-4bc7-bd4c-dea0f175cfe4?size=200)
+
+![tienda_1_ventas_categorias](https://github.com/user-attachments/assets/caa6a458-bbe4-491a-bf4f-348abe494d5e?size=200)
+
+![tienda_1_calificacion_promedio](https://github.com/user-attachments/assets/a6df0f86-587b-4c82-8f04-e768048584fa?size=200)
+
 
 
