@@ -36,10 +36,10 @@ Hasta este punto se han desarrollado los siguientes análisis:
 - Python
 - Google Colab
 - Bibliotecas:
-- pandas
-- numpy
-- matplotlib
-- seaborn
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
 
  ## 🚀 Cómo ejecutar
 
